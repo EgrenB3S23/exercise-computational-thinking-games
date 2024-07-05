@@ -1,3 +1,5 @@
+(TODO: #4 and #6)
+
 # Computational Thinking Games
 
 Utför de fyra datalogiska delprocesserna på nedanstående problem. Avsluta varje spel med att försöga skapa en steg för steg-beskrivning av processen.
